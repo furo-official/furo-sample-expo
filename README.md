@@ -10,7 +10,7 @@ Check Furo's [Official Documentation](https://docs.furo.one/sdks/guides/react-na
 
 1. Rename .env.example to .env and fill in your credentials
 
-```json
+```env
 // .env
 EXPO_FURO_CLIENT_ID="YOUR_CLIENT_ID";
 ```
