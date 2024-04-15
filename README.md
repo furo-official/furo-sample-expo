@@ -8,7 +8,7 @@ Check Furo's [Official Documentation](https://docs.furo.one/sdks/guides/react-na
 
 ## How to start
 
-1. Rename .env.example to .env and fill in your credentials
+1. Rename .env.example to .env and fill in your Furo project Client ID
 
 ```env
 // .env
